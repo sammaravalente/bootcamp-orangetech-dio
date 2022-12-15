@@ -1,5 +1,5 @@
 # Oiê!! 
-Sou a Sammara, participei do Bootcamp Orange Tech+ da DIO em parceria com o Banco Inter de Outubro até Novembro.
+Sou a Sammara, participei do Bootcamp Orange Tech+ da DIO em parceria com o Banco Inter de Outubro até Novembro. <br>
 :no_entry_sign: Bootcamp não terminado.
 
 ### Concluí e recebi o certificado dos seguintes módulos: 
